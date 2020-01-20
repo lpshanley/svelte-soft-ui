@@ -1,6 +1,7 @@
 {
   "name": "svelte-soft-ui",
   "svelte": "src/index.js",
+  "version": "0.0.1",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
   "scripts": {
